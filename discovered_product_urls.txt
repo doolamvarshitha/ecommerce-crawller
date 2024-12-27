@@ -1,0 +1,62 @@
+www.amazon.com:
+  https://www.amazon.com/dp/B08Q7BLQ8V
+  https://www.amazon.com/dp/B07X1Y3R72
+  https://www.amazon.com/dp/B09BJH26Z5
+  https://www.amazon.com/dp/B07VJYZF1D
+  https://www.amazon.com/dp/B07D1YS49L
+
+www.ebay.com:
+  https://www.ebay.com/itm/333914639919
+  https://www.ebay.com/itm/144773883040
+  https://www.ebay.com/itm/363214678532
+  https://www.ebay.com/itm/144773883042
+  https://www.ebay.com/itm/114813745897
+
+www.walmart.com:
+  https://www.walmart.com/ip/1234567890
+  https://www.walmart.com/ip/0987654321
+  https://www.walmart.com/ip/1029384756
+  https://www.walmart.com/ip/5678901234
+
+www.target.com:
+  https://www.target.com/p/apple-iphone-13
+  https://www.target.com/p/samsung-galaxy-s21
+  https://www.target.com/p/sony-wh-1000xm4
+  https://www.target.com/p/microsoft-surface-laptop
+
+www.bestbuy.com:
+  https://www.bestbuy.com/site/apple-iphone-13
+  https://www.bestbuy.com/site/samsung-galaxy-s21
+  https://www.bestbuy.com/site/sony-wh-1000xm4
+  https://www.bestbuy.com/site/microsoft-surface-laptop
+www.amazon.com:
+  https://www.amazon.com/dp/B08Q7BLQ8V
+  https://www.amazon.com/dp/B07X1Y3R72
+  https://www.amazon.com/dp/B09BJH26Z5
+  https://www.amazon.com/dp/B07VJYZF1D
+  https://www.amazon.com/dp/B07D1YS49L
+
+www.ebay.com:
+  https://www.ebay.com/itm/333914639919
+  https://www.ebay.com/itm/144773883040
+  https://www.ebay.com/itm/363214678532
+  https://www.ebay.com/itm/144773883042
+  https://www.ebay.com/itm/114813745897
+
+www.walmart.com:
+  https://www.walmart.com/ip/1234567890
+  https://www.walmart.com/ip/0987654321
+  https://www.walmart.com/ip/1029384756
+  https://www.walmart.com/ip/5678901234
+
+www.target.com:
+  https://www.target.com/p/apple-iphone-13
+  https://www.target.com/p/samsung-galaxy-s21
+  https://www.target.com/p/sony-wh-1000xm4
+  https://www.target.com/p/microsoft-surface-laptop
+
+www.bestbuy.com:
+  https://www.bestbuy.com/site/apple-iphone-13
+  https://www.bestbuy.com/site/samsung-galaxy-s21
+  https://www.bestbuy.com/site/sony-wh-1000xm4
+  https://www.bestbuy.com/site/microsoft-surface-laptop
